@@ -1,4 +1,8 @@
-# Level-3-Tugas-10
+Mohon maaf, ini pertama kali saya menyentuh database sehingga saya mengerjakan nomor 10 dengan melihat tutorial di Internet. Masih terdapat kesalahan pada tombol "ubah" dan "delete" dan akan saya usahakan untuk diperbaiki.
+
+Terimakasih
+
+
 ![1](https://user-images.githubusercontent.com/41407774/95586473-eb92a700-0a6a-11eb-9564-5b4284431d36.PNG)
 ![2](https://user-images.githubusercontent.com/41407774/95586476-ecc3d400-0a6a-11eb-9f67-a928f2c047e1.PNG)
 ![3](https://user-images.githubusercontent.com/41407774/95586477-ecc3d400-0a6a-11eb-9595-79113ab0b8d4.PNG)
