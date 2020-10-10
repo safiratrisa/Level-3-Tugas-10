@@ -1,4 +1,4 @@
-Mohon maaf, ini pertama kali saya menyentuh database sehingga saya mengerjakan nomor 10 dengan melihat tutorial di Internet. Masih terdapat kesalahan pada tombol "ubah" dan "delete" dan akan saya perbaiki.
+Mohon maaf, ini pertama kali saya menyentuh database sehingga saya mengerjakan nomor 10 dengan melihat tutorial di Internet. Masih terdapat kesalahan pada tombol "delete" dan akan saya perbaiki.
 
 Terimakasih
 
